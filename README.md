@@ -16,7 +16,7 @@ npm run build
 npm run serve
 ```
 
-The project is deployed [here]()
+The project is deployed [here](https://wforecast-fe.herokuapp.com/weather)
 
 Backend part of the application is available [here](https://github.com/MsAkiNom/forecast-be)
 
