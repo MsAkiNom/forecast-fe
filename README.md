@@ -1,24 +1,22 @@
-# forecast-fe
+# Weather Forecast (FrontEnd)
 
-## Project setup
+This part is implemented on vueJS framework.
+
+
+## Setting up the project
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
 ```
-npm run lint
+npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The project is deployed [here]()
+
+Backend part of the application is available [here](https://github.com/MsAkiNom/forecast-be)
+
